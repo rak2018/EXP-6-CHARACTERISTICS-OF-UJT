@@ -1,5 +1,6 @@
 # EXP-6-CHARACTERISTICS-OF-UJT
 # AIM
+
 To plot the characteristics of UJT (2N2446) and to determine the intrinsic stand-off ratio from the graph.
 # APPARATUS REQUIRED
 S. No.	Components	Specification	Qty.
